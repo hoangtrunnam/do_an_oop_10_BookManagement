@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="do_an_oop_10.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="stringconn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="E:\năm 3 kì 2\do_an_OOP\do_an_oop_10\do_an_oop_10\BookManagement.mdf";Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
